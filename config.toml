@@ -1,7 +1,7 @@
 baseURL = "https:/itismo.com"
 languageCode = "en-us"
 defaultContentLanguage = "en"
-title = "Hugo Hermit"
+title = "Tech Scribbles"
 theme = "hermit"
 # enableGitInfo = true
 pygmentsCodefences  = true
